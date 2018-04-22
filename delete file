@@ -1,0 +1,103 @@
+[33mcommit b5386de86e125a09f0e27a13607941b112348147[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: deveops <deveops@gmail.com>
+Date:   Sun Apr 22 10:59:26 2018 +0530
+
+    delete file
+
+[33mcommit 5e9004831ad4b71b035a81306519bbc1c1a99426[m
+Author: deveops <deveops@gmail.com>
+Date:   Sun Apr 22 10:55:32 2018 +0530
+
+    delete file
+
+[33mcommit 3719c18aed8f739bb2ad127c74436faa28378a0f[m
+Author: deveops <deveops@gmail.com>
+Date:   Sun Apr 22 10:52:05 2018 +0530
+
+    delete a2
+
+[33mcommit 1621508b76d3c3a57e52179a77094d8f14675b16[m
+Author: deveops <deveops@gmail.com>
+Date:   Sun Apr 22 10:04:51 2018 +0530
+
+    test-sample
+
+[33mcommit 12957c494893bb74c18a8acd34fdc781a65610b0[m
+Author: deveops <deveops@gmail.com>
+Date:   Sun Apr 22 10:01:48 2018 +0530
+
+    testfile
+
+[33mcommit 95a605a38cd3bc67d730b9af3d3d4eccbcf617da[m
+Author: deveops <deveops@gmail.com>
+Date:   Sun Apr 22 09:49:46 2018 +0530
+
+    sample-data
+
+[33mcommit 680e1a57d3eb87682bb73ba440028ae18a1f49b0[m[33m ([m[1;33mtag: v1.2[m[33m)[m
+Merge: 7faadf1 bd6c49d
+Author: deveops <deveops@gmail.com>
+Date:   Sun Apr 22 09:31:17 2018 +0530
+
+    conflict changes
+
+[33mcommit 7faadf1363b7782008016647b0cd4a6337ab9175[m
+Author: deveops <deveops@gmail.com>
+Date:   Sun Apr 22 09:24:00 2018 +0530
+
+    master edited file
+
+[33mcommit bd6c49dcb3ed9b4be727479f86d1b752479b6d71[m
+Author: deveops <deveops@gmail.com>
+Date:   Sun Apr 22 09:22:06 2018 +0530
+
+    edited file
+
+[33mcommit e63e32cfb150278db187c8b856180ea14eed0322[m
+Author: deveops <deveops@gmail.com>
+Date:   Sun Apr 22 08:52:29 2018 +0530
+
+    delete a1 file
+
+[33mcommit 562d7170ec3769a8d012dabc3b9a9d9b80d22e8b[m
+Author: deveops <deveops@gmail.com>
+Date:   Sun Apr 22 07:28:02 2018 +0530
+
+    crazy
+
+[33mcommit 25bd1420c0e24e071d7bc9f760f02acb8b8aa4b9[m
+Author: deveops <deveops@gmail.com>
+Date:   Sun Apr 22 07:20:55 2018 +0530
+
+    all
+
+[33mcommit a0ff67d8e10fa7aa92eaf27e93bb9b272d0d30e8[m
+Merge: da909c1 f8907f1
+Author: deveops <deveops@gmail.com>
+Date:   Sun Apr 22 06:47:13 2018 +0530
+
+    Merge branch 'master' into master-1
+
+[33mcommit da909c11c756429b7196fbb25d3c557dd27ea5d3[m
+Author: deveops <deveops@gmail.com>
+Date:   Sat Apr 21 16:36:02 2018 +0530
+
+    aaa
+
+[33mcommit f8907f19ed2b1e33417784b2fb803af7e8faa16e[m
+Author: deveops <deveops@gmail.com>
+Date:   Sat Apr 21 16:34:48 2018 +0530
+
+    aa
+
+[33mcommit 88776acfb6edbb5e26832e2cd8dc06ccd347e30d[m
+Author: deveops <deveops@gmail.com>
+Date:   Sat Apr 21 14:46:28 2018 +0530
+
+    2nd commit
+
+[33mcommit 9fe50cd0aae9c08a1f350c548c94b0a2dff23300[m
+Author: deveops <deveops@gmail.com>
+Date:   Sat Apr 21 14:28:06 2018 +0530
+
+    committed by nitin
